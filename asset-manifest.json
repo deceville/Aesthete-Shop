@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aesthete/static/css/main.67cc647d.chunk.css",
+    "main.js": "/aesthete/static/js/main.1b0500f9.chunk.js",
+    "main.js.map": "/aesthete/static/js/main.1b0500f9.chunk.js.map",
+    "runtime-main.js": "/aesthete/static/js/runtime-main.8010aaaf.js",
+    "runtime-main.js.map": "/aesthete/static/js/runtime-main.8010aaaf.js.map",
+    "static/js/2.18eb4dd6.chunk.js": "/aesthete/static/js/2.18eb4dd6.chunk.js",
+    "static/js/2.18eb4dd6.chunk.js.map": "/aesthete/static/js/2.18eb4dd6.chunk.js.map",
+    "index.html": "/aesthete/index.html",
+    "precache-manifest.19829f90f5ad06878cd6f4689346b708.js": "/aesthete/precache-manifest.19829f90f5ad06878cd6f4689346b708.js",
+    "service-worker.js": "/aesthete/service-worker.js",
+    "static/css/main.67cc647d.chunk.css.map": "/aesthete/static/css/main.67cc647d.chunk.css.map",
+    "static/js/2.18eb4dd6.chunk.js.LICENSE.txt": "/aesthete/static/js/2.18eb4dd6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/aesthete/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8010aaaf.js",
+    "static/js/2.18eb4dd6.chunk.js",
+    "static/css/main.67cc647d.chunk.css",
+    "static/js/main.1b0500f9.chunk.js"
+  ]
+}
