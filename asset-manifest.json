@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aesthete-shop/static/css/main.aa676a07.chunk.css",
+    "main.css": "/aesthete-shop/static/css/main.c511404b.chunk.css",
     "main.js": "/aesthete-shop/static/js/main.c40c5661.chunk.js",
     "main.js.map": "/aesthete-shop/static/js/main.c40c5661.chunk.js.map",
     "runtime-main.js": "/aesthete-shop/static/js/runtime-main.137656d8.js",
@@ -8,15 +8,15 @@
     "static/js/2.9e4d57f8.chunk.js": "/aesthete-shop/static/js/2.9e4d57f8.chunk.js",
     "static/js/2.9e4d57f8.chunk.js.map": "/aesthete-shop/static/js/2.9e4d57f8.chunk.js.map",
     "index.html": "/aesthete-shop/index.html",
-    "precache-manifest.5a84a9c336a6255cc782ddbe67eb9708.js": "/aesthete-shop/precache-manifest.5a84a9c336a6255cc782ddbe67eb9708.js",
+    "precache-manifest.fff806d113dd9908ba4f189ac1aa7740.js": "/aesthete-shop/precache-manifest.fff806d113dd9908ba4f189ac1aa7740.js",
     "service-worker.js": "/aesthete-shop/service-worker.js",
-    "static/css/main.aa676a07.chunk.css.map": "/aesthete-shop/static/css/main.aa676a07.chunk.css.map",
+    "static/css/main.c511404b.chunk.css.map": "/aesthete-shop/static/css/main.c511404b.chunk.css.map",
     "static/js/2.9e4d57f8.chunk.js.LICENSE.txt": "/aesthete-shop/static/js/2.9e4d57f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.137656d8.js",
     "static/js/2.9e4d57f8.chunk.js",
-    "static/css/main.aa676a07.chunk.css",
+    "static/css/main.c511404b.chunk.css",
     "static/js/main.c40c5661.chunk.js"
   ]
 }
