@@ -64,8 +64,8 @@ function Home() {
                             <div className="product product__style--3">
                                 <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                     <div className="product__thumb">
-                                        <Link className="first__img" to="/single-product"><img src="/images/books/1.jpg" alt="product image" /></Link>
-                                        <Link className="second__img animation1" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
+                                        <Link className="first__img" to="/single-product"><img src="images/books/1.jpg" alt="product image" /></Link>
+                                        <Link className="second__img animation1" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
                                         <div className="hot__box">
                                             <span className="hot-label">BEST SALLER</span>
                                         </div>
@@ -103,8 +103,8 @@ function Home() {
                             <div className="product product__style--3">
                                 <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                     <div className="product__thumb">
-                                        <Link className="first__img" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
-                                        <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
+                                        <Link className="first__img" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                        <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
                                         <div className="hot__box color--2">
                                             <span className="hot-label">HOT</span>
                                         </div>
@@ -142,8 +142,8 @@ function Home() {
                             <div className="product product__style--3">
                                 <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                     <div className="product__thumb">
-                                        <Link className="first__img" to="/single-product"><img src="/images/books/5.jpg" alt="product image" /></Link>
-                                        <Link className="second__img animation1" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
+                                        <Link className="first__img" to="/single-product"><img src="images/books/5.jpg" alt="product image" /></Link>
+                                        <Link className="second__img animation1" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
                                         <div className="hot__box">
                                             <span className="hot-label">BEST SALLER</span>
                                         </div>
@@ -181,8 +181,8 @@ function Home() {
                             <div className="product product__style--3">
                                 <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                     <div className="product__thumb">
-                                        <Link className="first__img" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
-                                        <Link className="second__img animation1" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
+                                        <Link className="first__img" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
+                                        <Link className="second__img animation1" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
                                         <div className="hot__box">
                                             <span className="hot-label">HOT</span>
                                         </div>
@@ -220,8 +220,8 @@ function Home() {
                             <div className="product product__style--3">
                                 <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                     <div className="product__thumb">
-                                        <Link className="first__img" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                        <Link className="second__img animation1" to="/single-product"><img src="/images/books/10.jpg" alt="product image" /></Link>
+                                        <Link className="first__img" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                        <Link className="second__img animation1" to="/single-product"><img src="images/books/10.jpg" alt="product image" /></Link>
                                         <div className="hot__box">
                                             <span className="hot-label">HOT</span>
                                         </div>
@@ -259,8 +259,8 @@ function Home() {
                             <div className="product product__style--3">
                                 <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                     <div className="product__thumb">
-                                        <Link className="first__img" to="/single-product"><img src="/images/books/11.jpg" alt="product image" /></Link>
-                                        <Link className="second__img animation1" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
+                                        <Link className="first__img" to="/single-product"><img src="images/books/11.jpg" alt="product image" /></Link>
+                                        <Link className="second__img animation1" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
                                         <div className="hot__box">
                                             <span className="hot-label">BEST SALER</span>
                                         </div>
@@ -352,8 +352,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/1.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/1.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALER</span>
                                                     </div>
@@ -391,8 +391,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALER</span>
                                                     </div>
@@ -432,8 +432,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/5.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/5.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">HOT</span>
                                                     </div>
@@ -471,8 +471,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">HOT</span>
                                                     </div>
@@ -512,8 +512,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">HOT</span>
                                                     </div>
@@ -551,8 +551,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/11.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/5.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/11.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/5.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">HOT</span>
                                                     </div>
@@ -592,8 +592,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -631,8 +631,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/12.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/12.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -672,8 +672,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/5.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/5.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -711,8 +711,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -758,8 +758,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/1.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/1.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -797,88 +797,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/10.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                    </div>
-                                    <div className="single__product">
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/5.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/1.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/10.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -918,8 +838,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/5.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -957,88 +877,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                    </div>
-                                    <div className="single__product">
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/11.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/12.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/1.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1078,8 +918,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1117,8 +957,168 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/5.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                    </div>
+                                    <div className="single__product">
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/11.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/12.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                    </div>
+                                    <div className="single__product">
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/5.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1164,8 +1164,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1203,88 +1203,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/12.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                    </div>
-                                    <div className="single__product">
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/11.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/1.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/5.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/11.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/12.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1324,8 +1244,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/10.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/11.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/1.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1363,88 +1283,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/1.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                    </div>
-                                    <div className="single__product">
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/5.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/11.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1484,8 +1324,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/10.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1523,8 +1363,168 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/10.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/1.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                    </div>
+                                    <div className="single__product">
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                    </div>
+                                    <div className="single__product">
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/10.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1570,8 +1570,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/1.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/1.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1609,88 +1609,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                    </div>
-                                    <div className="single__product">
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/10.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/12.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1730,8 +1650,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/5.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/10.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/12.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1769,88 +1689,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                    </div>
-                                    <div className="single__product">
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/12.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1890,8 +1730,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/5.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1929,8 +1769,168 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/1.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                    </div>
+                                    <div className="single__product">
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/12.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                    </div>
+                                    <div className="single__product">
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/1.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -1976,8 +1976,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -2015,88 +2015,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/10.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                    </div>
-                                    <div className="single__product">
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/10.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -2136,8 +2056,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -2175,88 +2095,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/9.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                    </div>
-                                    <div className="single__product">
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/7.jpg" alt="product image" /></Link>
-                                                    <div className="hot__box">
-                                                        <span className="hot-label">BEST SALLER</span>
-                                                    </div>
-                                                </div>
-                                                <div className="product__content content--center">
-                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
-                                                    <ul className="prize d-flex">
-                                                        <li>$40.00</li>
-                                                        <li className="old_prize">$35.00</li>
-                                                    </ul>
-                                                    <div className="action">
-                                                        <div className="actions_inner">
-                                                            <ul className="add_to_links">
-                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
-                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
-                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
-                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div className="product__hover--content">
-                                                        <ul className="rating d-flex">
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li className="on"><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                            <li><i className="fa fa-star-o" /></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        {/* Start Single Product */}
-                                        {/* Start Single Product */}
-                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
-                                            <div className="product product__style--3">
-                                                <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/4.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -2296,8 +2136,8 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/8.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -2335,8 +2175,168 @@ function Home() {
                                         <div className="col-lg-3 col-md-4 col-sm-6 col-12">
                                             <div className="product product__style--3">
                                                 <div className="product__thumb">
-                                                    <Link className="first__img" to="/single-product"><img src="/images/books/2.jpg" alt="product image" /></Link>
-                                                    <Link className="second__img animation1" to="/single-product"><img src="/images/books/6.jpg" alt="product image" /></Link>
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/9.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                    </div>
+                                    <div className="single__product">
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/7.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/4.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                    </div>
+                                    <div className="single__product">
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/8.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/3.jpg" alt="product image" /></Link>
+                                                    <div className="hot__box">
+                                                        <span className="hot-label">BEST SALLER</span>
+                                                    </div>
+                                                </div>
+                                                <div className="product__content content--center">
+                                                    <h4><Link to="/single-product">Bowen Greenwood</Link></h4>
+                                                    <ul className="prize d-flex">
+                                                        <li>$40.00</li>
+                                                        <li className="old_prize">$35.00</li>
+                                                    </ul>
+                                                    <div className="action">
+                                                        <div className="actions_inner">
+                                                            <ul className="add_to_links">
+                                                                <li><a className="cart" href="cart.html"><i className="bi bi-shopping-bag4" /></a></li>
+                                                                <li><a className="wishlist" href="wishlist.html"><i className="bi bi-shopping-cart-full" /></a></li>
+                                                                <li><a className="compare" href="#"><i className="bi bi-heart-beat" /></a></li>
+                                                                <li><a data-toggle="modal" title="Quick View" className="quickview modal-view detail-link" href="#productmodal"><i className="bi bi-search" /></a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div className="product__hover--content">
+                                                        <ul className="rating d-flex">
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li className="on"><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                            <li><i className="fa fa-star-o" /></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/* Start Single Product */}
+                                        {/* Start Single Product */}
+                                        <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                                            <div className="product product__style--3">
+                                                <div className="product__thumb">
+                                                    <Link className="first__img" to="/single-product"><img src="images/books/2.jpg" alt="product image" /></Link>
+                                                    <Link className="second__img animation1" to="/single-product"><img src="images/books/6.jpg" alt="product image" /></Link>
                                                     <div className="hot__box">
                                                         <span className="hot-label">BEST SALLER</span>
                                                     </div>
@@ -2461,7 +2461,7 @@ function Home() {
                         {/* Single product start */}
                         <div className="product product__style--3">
                             <div className="product__thumb">
-                                <Link className="first__img" to="/single-product"><img src="/images/best-sell-product/1.jpg" alt="product image" /></Link>
+                                <Link className="first__img" to="/single-product"><img src="images/best-sell-product/1.jpg" alt="product image" /></Link>
                             </div>
                             <div className="product__content content--center">
                                 <div className="action">
@@ -2489,7 +2489,7 @@ function Home() {
                         {/* Single product start */}
                         <div className="product product__style--3">
                             <div className="product__thumb">
-                                <Link className="first__img" to="/single-product"><img src="/images/best-sell-product/2.jpg" alt="product image" /></Link>
+                                <Link className="first__img" to="/single-product"><img src="images/best-sell-product/2.jpg" alt="product image" /></Link>
                             </div>
                             <div className="product__content content--center">
                                 <div className="action">
@@ -2517,7 +2517,7 @@ function Home() {
                         {/* Single product start */}
                         <div className="product product__style--3">
                             <div className="product__thumb">
-                                <Link className="first__img" to="/single-product"><img src="/images/best-sell-product/3.jpg" alt="product image" /></Link>
+                                <Link className="first__img" to="/single-product"><img src="images/best-sell-product/3.jpg" alt="product image" /></Link>
                             </div>
                             <div className="product__content content--center">
                                 <div className="action">
@@ -2545,7 +2545,7 @@ function Home() {
                         {/* Single product start */}
                         <div className="product product__style--3">
                             <div className="product__thumb">
-                                <Link className="first__img" to="/single-product"><img src="/images/best-sell-product/4.jpg" alt="product image" /></Link>
+                                <Link className="first__img" to="/single-product"><img src="images/best-sell-product/4.jpg" alt="product image" /></Link>
                             </div>
                             <div className="product__content content--center">
                                 <div className="action">
@@ -2573,7 +2573,7 @@ function Home() {
                         {/* Single product start */}
                         <div className="product product__style--3">
                             <div className="product__thumb">
-                                <Link className="first__img" to="/single-product"><img src="/images/best-sell-product/5.jpg" alt="product image" /></Link>
+                                <Link className="first__img" to="/single-product"><img src="images/best-sell-product/5.jpg" alt="product image" /></Link>
                             </div>
                             <div className="product__content content--center">
                                 <div className="action">
@@ -2601,7 +2601,7 @@ function Home() {
                         {/* Single product start */}
                         <div className="product product__style--3">
                             <div className="product__thumb">
-                                <Link className="first__img" to="/single-product"><img src="/images/best-sell-product/6.jpg" alt="product image" /></Link>
+                                <Link className="first__img" to="/single-product"><img src="images/best-sell-product/6.jpg" alt="product image" /></Link>
                             </div>
                             <div className="product__content content--center">
                                 <div className="action">
@@ -2629,7 +2629,7 @@ function Home() {
                         {/* Single product start */}
                         <div className="product product__style--3">
                             <div className="product__thumb">
-                                <Link className="first__img" to="/single-product"><img src="/images/best-sell-product/7.jpg" alt="product image" /></Link>
+                                <Link className="first__img" to="/single-product"><img src="images/best-sell-product/7.jpg" alt="product image" /></Link>
                             </div>
                             <div className="product__content content--center">
                                 <div className="action">
@@ -2657,7 +2657,7 @@ function Home() {
                         {/* Single product start */}
                         <div className="product product__style--3">
                             <div className="product__thumb">
-                                <Link className="first__img" to="/single-product"><img src="/images/best-sell-product/8.jpg" alt="product image" /></Link>
+                                <Link className="first__img" to="/single-product"><img src="images/best-sell-product/8.jpg" alt="product image" /></Link>
                             </div>
                             <div className="product__content content--center">
                                 <div className="action">

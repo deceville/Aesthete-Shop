@@ -11,7 +11,7 @@ function Navigation(props) {
                         <div className="col-md-6 col-sm-6 col-6 col-lg-2">
                             <div className="logo">
                                 <Link to="/">
-                                    <img src="/images/logo/logo.png" alt="logo images" />
+                                    <img src="images/logo/logo.png" alt="logo images" />
                                 </Link>
                             </div>
                         </div>
@@ -130,7 +130,7 @@ function Navigation(props) {
                                                 <div className="miniproduct">
                                                     <div className="item01 d-flex">
                                                         <div className="thumb">
-                                                            <a href="product-details.html"><img src="/images/product/sm-img/1.jpg" alt="product images" /></a>
+                                                            <a href="product-details.html"><img src="images/product/sm-img/1.jpg" alt="product images" /></a>
                                                         </div>
                                                         <div className="content">
                                                             <h6><a href="product-details.html">Voyage Yoga Bag</a></h6>
@@ -146,7 +146,7 @@ function Navigation(props) {
                                                     </div>
                                                     <div className="item01 d-flex mt--20">
                                                         <div className="thumb">
-                                                            <a href="product-details.html"><img src="/images/product/sm-img/3.jpg" alt="product images" /></a>
+                                                            <a href="product-details.html"><img src="images/product/sm-img/3.jpg" alt="product images" /></a>
                                                         </div>
                                                         <div className="content">
                                                             <h6><a href="product-details.html">Impulse Duffle</a></h6>
@@ -162,7 +162,7 @@ function Navigation(props) {
                                                     </div>
                                                     <div className="item01 d-flex mt--20">
                                                         <div className="thumb">
-                                                            <a href="product-details.html"><img src="/images/product/sm-img/2.jpg" alt="product images" /></a>
+                                                            <a href="product-details.html"><img src="images/product/sm-img/2.jpg" alt="product images" /></a>
                                                         </div>
                                                         <div className="content">
                                                             <h6><a href="product-details.html">Compete Track Tote</a></h6>

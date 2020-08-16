@@ -15,7 +15,7 @@ function Footer() {
                                     <div className="footer__widget footer__menu">
                                         <div className="ft__logo">
                                             <a href="index.html">
-                                                <img src="/images/logo/3.png" alt="logo" />
+                                                <img src="images/logo/3.png" alt="logo" />
                                             </a>
                                             <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered duskam alteration variations of passages</p>
                                         </div>
@@ -53,7 +53,7 @@ function Footer() {
                                 </div>
                                 <div className="col-lg-6 col-md-6 col-sm-12">
                                     <div className="payment text-right">
-                                        <img src="/images/icons/payment.png" alt="" />
+                                        <img src="images/icons/payment.png" alt="" />
                                     </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@ function Footer() {
                                         {/* Start product images */}
                                         <div className="product-images">
                                             <div className="main-image images">
-                                                <img alt="big images" src="/images/product/big-img/1.jpg" />
+                                                <img alt="big images" src="images/product/big-img/1.jpg" />
                                             </div>
                                         </div>
                                         {/* end product images */}
