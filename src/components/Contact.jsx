@@ -106,10 +106,6 @@ function Contact() {
                 </section>
                 {/* End Contact Area */}
             </div>
-            
-            <Helmet>
-                <script src="js/googlemaps.js"></script>
-            </Helmet>
         </div>
     )
 }

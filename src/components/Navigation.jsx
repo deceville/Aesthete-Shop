@@ -1,6 +1,5 @@
 import React from "react";
 import { Link, withRouter } from "react-router-dom";
-import Helmet from 'react-helmet';
 
 function Navigation(props) {
     return (
@@ -20,12 +19,12 @@ function Navigation(props) {
                             <nav className="mainmenu__nav">
                                 <ul className="meninmenu d-flex justify-content-start">
                                     <li className="drop with--one--item"><Link to="/">Home</Link></li>
-                                    <li className="drop"><a href="#">Shop</a>
+                                    <li className="drop"><Link to="/shop-grid">Shop</Link>
                                         <div className="megamenu mega03">
                                             <ul className="item item03">
                                                 <li className="title">Shop Layout</li>
-                                                <li><a href="shop-grid.html">Shop Grid</a></li>
-                                                <li><a href="single-product.html">Single Product</a></li>
+                                                <li><Link to="/shop-grid">Shop Grid</Link></li>
+                                                <li><Link Single Product to="/single-product">Single Product</Link></li>
                                             </ul>
                                             <ul className="item item03">
                                                 <li className="title">Shop Page</li>
@@ -38,39 +37,39 @@ function Navigation(props) {
                                             </ul>
                                             <ul className="item item03">
                                                 <li className="title">Bargain Books</li>
-                                                <li><a href="shop-grid.html">Bargain Bestsellers</a></li>
-                                                <li><a href="shop-grid.html">Activity Kits</a></li>
-                                                <li><a href="shop-grid.html">B&amp;N Classics</a></li>
-                                                <li><a href="shop-grid.html">Books Under $5</a></li>
-                                                <li><a href="shop-grid.html">Bargain Books</a></li>
+                                                <li><Link to="/shop-grid">Bargain Bestsellers</Link></li>
+                                                <li><Link to="/shop-grid">Activity Kits</Link></li>
+                                                <li><Link to="/shop-grid">B&amp;N Classics</Link></li>
+                                                <li><Link to="/shop-grid">Books Under $5</Link></li>
+                                                <li><Link to="/shop-grid">Bargain Books</Link></li>
                                             </ul>
                                         </div>
                                     </li>
-                                    <li className="drop"><Link to="/books">Books</Link>
+                                    <li className="drop"><Link to="/shop-grid">Books</Link>
                                         <div className="megamenu mega03">
                                             <ul className="item item03">
                                                 <li className="title">Categories</li>
-                                                <li><a href="shop-grid.html">Biography </a></li>
-                                                <li><a href="shop-grid.html">Business </a></li>
-                                                <li><a href="shop-grid.html">Cookbooks </a></li>
-                                                <li><a href="shop-grid.html">Health &amp; Fitness </a></li>
-                                                <li><a href="shop-grid.html">History </a></li>
+                                                <li><Link to="/shop-grid">Biography </Link></li>
+                                                <li><Link to="/shop-grid">Business </Link></li>
+                                                <li><Link to="/shop-grid">Cookbooks </Link></li>
+                                                <li><Link to="/shop-grid">Health &amp; Fitness </Link></li>
+                                                <li><Link to="/shop-grid">History </Link></li>
                                             </ul>
                                             <ul className="item item03">
                                                 <li className="title">Customer Favourite</li>
-                                                <li><a href="shop-grid.html">Mystery</a></li>
-                                                <li><a href="shop-grid.html">Religion &amp; Inspiration</a></li>
-                                                <li><a href="shop-grid.html">Romance</a></li>
-                                                <li><a href="shop-grid.html">Fiction/Fantasy</a></li>
-                                                <li><a href="shop-grid.html">Sleeveless</a></li>
+                                                <li><Link to="/shop-grid">Mystery</Link></li>
+                                                <li><Link to="/shop-grid">Religion &amp; Inspiration</Link></li>
+                                                <li><Link to="/shop-grid">Romance</Link></li>
+                                                <li><Link to="/shop-grid">Fiction/Fantasy</Link></li>
+                                                <li><Link to="/shop-grid">Sleeveless</Link></li>
                                             </ul>
                                             <ul className="item item03">
                                                 <li className="title">Collections</li>
-                                                <li><a href="shop-grid.html">Science </a></li>
-                                                <li><a href="shop-grid.html">Fiction/Fantasy</a></li>
-                                                <li><a href="shop-grid.html">Self-Improvemen</a></li>
-                                                <li><a href="shop-grid.html">Home &amp; Garden</a></li>
-                                                <li><a href="shop-grid.html">Humor Books</a></li>
+                                                <li><Link to="/shop-grid">Science </Link></li>
+                                                <li><Link to="/shop-grid">Fiction/Fantasy</Link></li>
+                                                <li><Link to="/shop-grid">Self-Improvemen</Link></li>
+                                                <li><Link to="/shop-grid">Home &amp; Garden</Link></li>
+                                                <li><Link to="/shop-grid">Humor Books</Link></li>
                                             </ul>
                                         </div>
                                     </li>
@@ -97,7 +96,7 @@ function Navigation(props) {
                                     <li className="drop"><Link to="/blog">Blog</Link>
                                         <div className="megamenu dropdown">
                                             <ul className="item item01">
-                                                <li><a href="blog.html">Blog Page</a></li>
+                                                <li><Link to="/blog">Blog Page</Link></li>
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
                                         </div>
@@ -281,10 +280,10 @@ function Navigation(props) {
                                             <li><a href="team.html">Team Page</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="shop-grid.html">Shop</a>
+                                    <li><Link to="/shop-grid">Shop</Link>
                                         <ul>
-                                            <li><a href="shop-grid.html">Shop Grid</a></li>
-                                            <li><a href="single-product.html">Single Product</a></li>
+                                            <li><Link to="/shop-grid">Shop Grid</Link></li>
+                                            <li><Link Single Product to="/single-product">Single Product</Link></li>
                                         </ul>
                                     </li>
                                     <li><a href="blog.html">Blog</a>
