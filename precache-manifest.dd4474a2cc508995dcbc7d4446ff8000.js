@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e8c9350aa96c7b31dcc92b629156329",
+    "revision": "6decc800a05bef07369385360446b027",
     "url": "/aesthete-shop/index.html"
   },
   {
-    "revision": "1dad7ce8caeb17171a60",
-    "url": "/aesthete-shop/static/css/main.8be738ec.chunk.css"
+    "revision": "b2a68f935488a4fb3ba3",
+    "url": "/aesthete-shop/static/css/main.5facb584.chunk.css"
   },
   {
     "revision": "c59eb2b90ab586d07aea",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aesthete-shop/static/js/2.9e4d57f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1dad7ce8caeb17171a60",
+    "revision": "b2a68f935488a4fb3ba3",
     "url": "/aesthete-shop/static/js/main.c40c5661.chunk.js"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aesthete-shop/precache-manifest.b461be65297819ceaa87e51300491ffd.js"
+  "/aesthete-shop/precache-manifest.dd4474a2cc508995dcbc7d4446ff8000.js"
 );
 
 self.addEventListener('message', (event) => {
