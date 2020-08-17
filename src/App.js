@@ -1,7 +1,8 @@
-import React from 'react';
-import './App.css';
-import { HashRouter as Router, Route, Switch } from 'react-router-dom';
-import { Navigation, Shop_Grid, Single_Product, Footer, Home, About, Blog, Contact } from './components';
+import React from "react";
+import "./App.css";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { Navigation, Footer } from "./components";
+import { Home, ShopGrid, SingleProduct, About, Blog, Contact } from "./pages";
 
 function App() {
   return (
@@ -10,8 +11,12 @@ function App() {
         <Navigation />
         <Switch>
           <Route path="/" exact component={() => <Home />} />
-          <Route path="/shop-grid" exact component={() => <Shop_Grid />} />
-          <Route path="/single-product" exact component={() => <Single_Product />} />
+          <Route path="/shop-grid" exact component={() => <ShopGrid />} />
+          <Route
+            path="/single-product"
+            exact
+            component={() => <SingleProduct />}
+          />
           <Route path="/about" exact component={() => <About />} />
           <Route path="/blog" exact component={() => <Blog />} />
           <Route path="/contact" exact component={() => <Contact />} />
