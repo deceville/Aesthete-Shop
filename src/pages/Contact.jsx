@@ -1,11 +1,26 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Breadcrumb } from "../components";
+import postscribe from "postscribe";
 
 function Contact() {
+  useEffect(() => {
+    let scripts = [
+      {
+        src:
+          "<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBmGmeot5jcjdaJTvfCmQPfzeoG_pABeWo'></script>",
+      },
+      { src: "<script src='js/googlemaps.js'></script>" },
+    ];
+    //Append the script element on each iteration
+    scripts.map((item) => {
+      postscribe("#wrapper", item.src);
+    });
+  }, []);
+
   return (
     <div className="contact">
       {/* Main Wrapper */}
-      <div class="wrapper" id="wrapper">
+      <div className="wrapper" id="wrapper">
         <Breadcrumb />
         {/* Start Contact Area */}
         <section className="wn_contact_area bg--white pt--80 pb--80">

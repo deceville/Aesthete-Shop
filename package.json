@@ -10,6 +10,7 @@
     "husky": "^4.2.5",
     "jquery": "^3.5.1",
     "lint-staged": "^10.2.11",
+    "postscribe": "^2.0.8",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -28,7 +29,6 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

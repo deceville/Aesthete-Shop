@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link, withRouter } from "react-router-dom";
 import { Breadcrumb } from "../components";
 import { banner } from "../assets/images";

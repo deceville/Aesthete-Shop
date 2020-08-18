@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link, withRouter } from "react-router-dom";
 
 function importAll(r) {
@@ -510,7 +510,7 @@ function Home() {
                       <img src={books["2.jpg"]} alt="product image" />
                     </Link>
                     <div className="hot__box">
-                      <span className="hot-label">BEST SELLER</span>
+                      <span className="hot-label">BEST SALER</span>
                     </div>
                   </div>
                   <div className="product__content content--center content--center">
@@ -694,7 +694,7 @@ function Home() {
                             <img src={books["2.jpg"]} alt="product image" />
                           </Link>
                           <div className="hot__box">
-                            <span className="hot-label">BEST SELLER</span>
+                            <span className="hot-label">BEST SALER</span>
                           </div>
                         </div>
                         <div className="product__content content--center content--center">
@@ -773,7 +773,7 @@ function Home() {
                             <img src={books["9.jpg"]} alt="product image" />
                           </Link>
                           <div className="hot__box">
-                            <span className="hot-label">BEST SELLER</span>
+                            <span className="hot-label">BEST SALER</span>
                           </div>
                         </div>
                         <div className="product__content content--center content--center">

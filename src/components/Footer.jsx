@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className="footer">
       {/* Main Wrapper */}
-      <div class="wrapper" id="wrapper">
+      <div className="wrapper" id="wrapper">
         {/* Footer Area */}
         <footer
           id="wn__footer"
@@ -271,10 +271,6 @@ function Footer() {
         </div>
         {/* END QUICKVIEW PRODUCT */}
       </div>
-      <Helmet>
-        {/* JS Files */}
-        <script src="js/active.js"></script>
-      </Helmet>
     </div>
   );
 }

@@ -2,6 +2,22 @@ import React from "react";
 import { Link, withRouter } from "react-router-dom";
 import { logo } from "../assets/images";
 
+function importAll(r) {
+  let images = {};
+  r.keys().map((item, index) => {
+    images[item.replace("./", "")] = r(item);
+  });
+  return images;
+}
+
+const product = importAll(
+  require.context(
+    "../assets/images/product/sm-img",
+    false,
+    /\.(png|jpe?g|svg)$/
+  )
+);
+
 function Navigation(props) {
   return (
     <div className="navigation">
@@ -34,9 +50,7 @@ function Navigation(props) {
                           <Link to="/shop-grid">Shop Grid</Link>
                         </li>
                         <li>
-                          <Link Single Product to="/single-product">
-                            Single Product
-                          </Link>
+                          <Link to="/single-product">Single Product</Link>
                         </li>
                       </ul>
                       <ul className="item item03">
@@ -193,7 +207,7 @@ function Navigation(props) {
                           <Link to="/blog">Blog Page</Link>
                         </li>
                         <li>
-                          <a href="blog-details.html">Blog Details</a>
+                          <Link to="/blog-detail">Blog Details</Link>
                         </li>
                       </ul>
                     </div>
@@ -240,7 +254,7 @@ function Navigation(props) {
                             <div className="thumb">
                               <a href="product-details.html">
                                 <img
-                                  src="images/product/sm-img/1.jpg"
+                                  src={product["1.jpg"]}
                                   alt="product images"
                                 />
                               </a>
@@ -273,7 +287,7 @@ function Navigation(props) {
                             <div className="thumb">
                               <a href="product-details.html">
                                 <img
-                                  src="images/product/sm-img/3.jpg"
+                                  src={product["3.jpg"]}
                                   alt="product images"
                                 />
                               </a>
@@ -306,7 +320,7 @@ function Navigation(props) {
                             <div className="thumb">
                               <a href="product-details.html">
                                 <img
-                                  src="images/product/sm-img/2.jpg"
+                                  src={product["2.jpg"]}
                                   alt="product images"
                                 />
                               </a>
@@ -489,9 +503,7 @@ function Navigation(props) {
                         <Link to="/shop-grid">Shop Grid</Link>
                       </li>
                       <li>
-                        <Link Single Product to="/single-product">
-                          Single Product
-                        </Link>
+                        <Link to="/single-product">Single Product</Link>
                       </li>
                     </ul>
                   </li>
@@ -502,7 +514,7 @@ function Navigation(props) {
                         <a href="blog.html">Blog Page</a>
                       </li>
                       <li>
-                        <a href="blog-details.html">Blog Details</a>
+                        <Link to="/blog-detail">Blog Details</Link>
                       </li>
                     </ul>
                   </li>
@@ -539,4 +551,5 @@ function Navigation(props) {
     </div>
   );
 }
+
 export default withRouter(Navigation);
