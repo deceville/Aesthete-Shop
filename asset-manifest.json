@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/aesthete-shop/static/css/main.63b4df68.chunk.css",
-    "main.js": "/aesthete-shop/static/js/main.d8c2729d.chunk.js",
-    "main.js.map": "/aesthete-shop/static/js/main.d8c2729d.chunk.js.map",
+    "main.css": "/aesthete-shop/static/css/main.cdd515fe.chunk.css",
+    "main.js": "/aesthete-shop/static/js/main.0a910cb1.chunk.js",
+    "main.js.map": "/aesthete-shop/static/js/main.0a910cb1.chunk.js.map",
     "runtime-main.js": "/aesthete-shop/static/js/runtime-main.137656d8.js",
     "runtime-main.js.map": "/aesthete-shop/static/js/runtime-main.137656d8.js.map",
-    "static/js/2.7b79a0d5.chunk.js": "/aesthete-shop/static/js/2.7b79a0d5.chunk.js",
-    "static/js/2.7b79a0d5.chunk.js.map": "/aesthete-shop/static/js/2.7b79a0d5.chunk.js.map",
+    "static/js/2.a58e97a6.chunk.js": "/aesthete-shop/static/js/2.a58e97a6.chunk.js",
+    "static/js/2.a58e97a6.chunk.js.map": "/aesthete-shop/static/js/2.a58e97a6.chunk.js.map",
     "index.html": "/aesthete-shop/index.html",
-    "precache-manifest.94e6bf274074684979ba258a0fce97e8.js": "/aesthete-shop/precache-manifest.94e6bf274074684979ba258a0fce97e8.js",
+    "precache-manifest.0518ea34a68e01c14cbc8c0b98701ad9.js": "/aesthete-shop/precache-manifest.0518ea34a68e01c14cbc8c0b98701ad9.js",
     "service-worker.js": "/aesthete-shop/service-worker.js",
-    "static/css/main.63b4df68.chunk.css.map": "/aesthete-shop/static/css/main.63b4df68.chunk.css.map",
-    "static/js/2.7b79a0d5.chunk.js.LICENSE.txt": "/aesthete-shop/static/js/2.7b79a0d5.chunk.js.LICENSE.txt",
+    "static/css/main.cdd515fe.chunk.css.map": "/aesthete-shop/static/css/main.cdd515fe.chunk.css.map",
+    "static/js/2.a58e97a6.chunk.js.LICENSE.txt": "/aesthete-shop/static/js/2.a58e97a6.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/aesthete-shop/static/media/1.5a2dd163.jpg",
     "static/media/index.css": "/aesthete-shop/static/media/9.6e856d5b.jpg",
-    "static/media/App.css": "/aesthete-shop/static/media/3.7e7c07d0.jpeg"
+    "static/media/2.jpg": "/aesthete-shop/static/media/2.2d15b6bd.jpg",
+    "static/media/3.jpg": "/aesthete-shop/static/media/3.2d15b6bd.jpg",
+    "static/media/App.css": "/aesthete-shop/static/media/3.7e7c07d0.jpeg",
+    "static/media/4.jpg": "/aesthete-shop/static/media/4.2d15b6bd.jpg",
+    "static/media/5.jpg": "/aesthete-shop/static/media/5.2d15b6bd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.137656d8.js",
-    "static/js/2.7b79a0d5.chunk.js",
-    "static/css/main.63b4df68.chunk.css",
-    "static/js/main.d8c2729d.chunk.js"
+    "static/js/2.a58e97a6.chunk.js",
+    "static/css/main.cdd515fe.chunk.css",
+    "static/js/main.0a910cb1.chunk.js"
   ]
 }
