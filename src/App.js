@@ -10,6 +10,9 @@ import {
   Blog,
   BlogDetails,
   Contact,
+  Cart,
+  Checkout,
+  Wishlist,
 } from "./pages";
 
 function App() {
@@ -41,6 +44,9 @@ function App() {
             exact
             component={() => <SingleProduct />}
           />
+          <Route path="/cart" exact component={() => <Cart />} />
+          <Route path="/checkout" exact component={() => <Checkout />} />
+          <Route path="/wishlist" exact component={() => <Wishlist />} />
           <Route path="/about" exact component={() => <About />} />
           <Route path="/blog" exact component={() => <Blog />} />
           <Route path="/blog-detail" exact component={() => <BlogDetails />} />

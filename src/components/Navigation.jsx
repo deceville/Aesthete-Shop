@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, withRouter } from "react-router-dom";
 import { logo } from "../assets/images";
+import SearchProduct from "./SearchProduct";
 
 function importAll(r) {
   let images = {};
@@ -56,22 +57,22 @@ function Navigation(props) {
                       <ul className="item item03">
                         <li className="title">Shop Page</li>
                         <li>
-                          <a href="my-account.html">My Account</a>
+                          <Link to="/my-account">My Account</Link>
                         </li>
                         <li>
-                          <a href="cart.html">Cart Page</a>
+                          <Link to="/cart">Cart Page</Link>
                         </li>
                         <li>
-                          <a href="checkout.html">Checkout Page</a>
+                          <Link to="/checkout">Checkout Page</Link>
                         </li>
                         <li>
-                          <a href="wishlist.html">Wishlist Page</a>
+                          <Link to="/wishlist">Wishlist Page</Link>
                         </li>
                         <li>
-                          <a href="error404.html">404 Page</a>
+                          <Link to="/error404">404 Page</Link>
                         </li>
                         <li>
-                          <a href="faq.html">Faq Page</a>
+                          <Link to="/faq">Faq Page</Link>
                         </li>
                       </ul>
                       <ul className="item item03">
@@ -163,38 +164,38 @@ function Navigation(props) {
                           <Link to="/about">About Page</Link>
                         </li>
                         <li className="label2">
-                          <a href="portfolio.html">Portfolio</a>
+                          <Link to="/portfolio">Portfolio</Link>
                           <ul>
                             <li>
-                              <a href="portfolio.html">Portfolio</a>
+                              <Link to="/portfolio">Portfolio</Link>
                             </li>
                             <li>
-                              <a href="portfolio-details.html">
+                              <Link to="/portfolio-details">
                                 Portfolio Details
-                              </a>
+                              </Link>
                             </li>
                           </ul>
                         </li>
                         <li>
-                          <a href="my-account.html">My Account</a>
+                          <Link to="/my-account">My Account</Link>
                         </li>
                         <li>
-                          <a href="cart.html">Cart Page</a>
+                          <Link to="/cart">Cart Page</Link>
                         </li>
                         <li>
-                          <a href="checkout.html">Checkout Page</a>
+                          <Link to="/checkout">Checkout Page</Link>
                         </li>
                         <li>
-                          <a href="wishlist.html">Wishlist Page</a>
+                          <Link to="/wishlist">Wishlist Page</Link>
                         </li>
                         <li>
-                          <a href="error404.html">404 Page</a>
+                          <Link to="/error404">404 Page</Link>
                         </li>
                         <li>
-                          <a href="faq.html">Faq Page</a>
+                          <Link to="/faq">Faq Page</Link>
                         </li>
                         <li>
-                          <a href="team.html">Team Page</a>
+                          <Link to="/team">Team Page</Link>
                         </li>
                       </ul>
                     </div>
@@ -244,26 +245,26 @@ function Navigation(props) {
                         <span>$66.00</span>
                       </div>
                       <div className="mini_action checkout">
-                        <a className="checkout__btn" href="cart.html">
+                        <Link className="checkout__btn" to="/cart">
                           Go to Checkout
-                        </a>
+                        </Link>
                       </div>
                       <div className="single__items">
                         <div className="miniproduct">
                           <div className="item01 d-flex">
                             <div className="thumb">
-                              <a href="product-details.html">
+                              <Link to="/product-details">
                                 <img
                                   src={product["1.jpg"]}
                                   alt="product images"
                                 />
-                              </a>
+                              </Link>
                             </div>
                             <div className="content">
                               <h6>
-                                <a href="product-details.html">
+                                <Link to="/product-details">
                                   Voyage Yoga Bag
-                                </a>
+                                </Link>
                               </h6>
                               <span className="prize">$30.00</span>
                               <div className="product_prize d-flex justify-content-between">
@@ -285,18 +286,18 @@ function Navigation(props) {
                           </div>
                           <div className="item01 d-flex mt--20">
                             <div className="thumb">
-                              <a href="product-details.html">
+                              <Link to="/product-details">
                                 <img
                                   src={product["3.jpg"]}
                                   alt="product images"
                                 />
-                              </a>
+                              </Link>
                             </div>
                             <div className="content">
                               <h6>
-                                <a href="product-details.html">
+                                <Link to="/product-details">
                                   Impulse Duffle
-                                </a>
+                                </Link>
                               </h6>
                               <span className="prize">$40.00</span>
                               <div className="product_prize d-flex justify-content-between">
@@ -318,18 +319,18 @@ function Navigation(props) {
                           </div>
                           <div className="item01 d-flex mt--20">
                             <div className="thumb">
-                              <a href="product-details.html">
+                              <Link to="/product-details">
                                 <img
                                   src={product["2.jpg"]}
                                   alt="product images"
                                 />
-                              </a>
+                              </Link>
                             </div>
                             <div className="content">
                               <h6>
-                                <a href="product-details.html">
+                                <Link to="/product-details">
                                   Compete Track Tote
-                                </a>
+                                </Link>
                               </h6>
                               <span className="prize">$40.00</span>
                               <div className="product_prize d-flex justify-content-between">
@@ -352,9 +353,9 @@ function Navigation(props) {
                         </div>
                       </div>
                       <div className="mini_action cart">
-                        <a className="cart__btn" href="cart.html">
+                        <Link className="cart__btn" to="/cart">
                           View and edit cart
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -452,47 +453,47 @@ function Navigation(props) {
               <nav className="mobilemenu__nav">
                 <ul className="meninmenu">
                   <li>
-                    <a href="index.html">Home</a>
+                    <Link to="/">Home</Link>
                   </li>
                   <li>
                     <a href="#">Pages</a>
                     <ul>
                       <li>
-                        <a href="about.html">About Page</a>
+                        <Link to="/about">About Page</Link>
                       </li>
                       <li>
-                        <a href="portfolio.html">Portfolio</a>
+                        <Link to="/portfolio">Portfolio</Link>
                         <ul>
                           <li>
-                            <a href="portfolio.html">Portfolio</a>
+                            <Link to="/portfolio">Portfolio</Link>
                           </li>
                           <li>
-                            <a href="portfolio-details.html">
+                            <Link to="/portfolio-details">
                               Portfolio Details
-                            </a>
+                            </Link>
                           </li>
                         </ul>
                       </li>
                       <li>
-                        <a href="my-account.html">My Account</a>
+                        <Link to="/my-account">My Account</Link>
                       </li>
                       <li>
-                        <a href="cart.html">Cart Page</a>
+                        <Link to="/cart">Cart Page</Link>
                       </li>
                       <li>
-                        <a href="checkout.html">Checkout Page</a>
+                        <Link to="/checkout">Checkout Page</Link>
                       </li>
                       <li>
-                        <a href="wishlist.html">Wishlist Page</a>
+                        <Link to="/wishlist">Wishlist Page</Link>
                       </li>
                       <li>
-                        <a href="error404.html">404 Page</a>
+                        <Link to="/error404">404 Page</Link>
                       </li>
                       <li>
-                        <a href="faq.html">Faq Page</a>
+                        <Link to="/faq">Faq Page</Link>
                       </li>
                       <li>
-                        <a href="team.html">Team Page</a>
+                        <Link to="/team">Team Page</Link>
                       </li>
                     </ul>
                   </li>
@@ -508,10 +509,10 @@ function Navigation(props) {
                     </ul>
                   </li>
                   <li>
-                    <a href="blog.html">Blog</a>
+                    <Link to="/blog">Blog</Link>
                     <ul>
                       <li>
-                        <a href="blog.html">Blog Page</a>
+                        <Link to="/blog">Blog Page</Link>
                       </li>
                       <li>
                         <Link to="/blog-detail">Blog Details</Link>
@@ -519,7 +520,7 @@ function Navigation(props) {
                     </ul>
                   </li>
                   <li>
-                    <a href="contact.html">Contact</a>
+                    <Link to="/contact">Contact</Link>
                   </li>
                 </ul>
               </nav>
@@ -531,23 +532,7 @@ function Navigation(props) {
         </div>
       </header>
       {/* //Header */}
-      {/* Start Search Popup */}
-      <div className="brown--color box-search-content search_active block-bg close__top">
-        <form id="search_mini_form" className="minisearch" action="#">
-          <div className="field__search">
-            <input type="text" placeholder="Search entire store here..." />
-            <div className="action">
-              <a href="#">
-                <i className="zmdi zmdi-search" />
-              </a>
-            </div>
-          </div>
-        </form>
-        <div className="close__wrap">
-          <span>close</span>
-        </div>
-      </div>
-      {/* End Search Popup */}
+      <SearchProduct />
     </div>
   );
 }

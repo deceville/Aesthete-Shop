@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { Breadcrumb } from "../components";
 import { Link } from "react-router-dom";
 

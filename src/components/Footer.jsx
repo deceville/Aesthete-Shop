@@ -1,5 +1,5 @@
 import React from "react";
-import Helmet from "react-helmet";
+import { Link } from "react-router-dom";
 import { logo_ft } from "../assets/images";
 
 function Footer() {
@@ -18,9 +18,9 @@ function Footer() {
                 <div className="col-lg-12">
                   <div className="footer__widget footer__menu">
                     <div className="ft__logo">
-                      <a href="index.html">
+                      <Link to="/">
                         <img src={logo_ft} alt="logo" />
-                      </a>
+                      </Link>
                       <p>
                         There are many variations of passages of Lorem Ipsum
                         available, but the majority have suffered duskam
@@ -57,22 +57,22 @@ function Footer() {
                       </ul>
                       <ul className="mainmenu d-flex justify-content-center">
                         <li>
-                          <a href="index.html">Trending</a>
+                          <Link to="/index">Trending</Link>
                         </li>
                         <li>
-                          <a href="index.html">Best Seller</a>
+                          <Link to="/index">Best Seller</Link>
                         </li>
                         <li>
-                          <a href="index.html">All Product</a>
+                          <Link to="/index">All Product</Link>
                         </li>
                         <li>
-                          <a href="index.html">Wishlist</a>
+                          <Link to="/wishlist">Wishlist</Link>
                         </li>
                         <li>
-                          <a href="index.html">Blog</a>
+                          <Link to="/blog">Blog</Link>
                         </li>
                         <li>
-                          <a href="index.html">Contact</a>
+                          <Link to="/contact">Contact</Link>
                         </li>
                       </ul>
                     </div>
