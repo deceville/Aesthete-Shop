@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "692b39a29c17fb6cef59c404a4bdadf0",
+    "revision": "24905c68e2fbac828fb86f3a3552d997",
     "url": "/aesthete-shop/index.html"
   },
   {
-    "revision": "0c7d66b205fa44a2d1bd",
+    "revision": "840d9d168d18046079d5",
     "url": "/aesthete-shop/static/css/main.cdd515fe.chunk.css"
   },
   {
-    "revision": "96f6c801a56d64325136",
-    "url": "/aesthete-shop/static/js/2.c44f84b0.chunk.js"
+    "revision": "2fa9e6af1b9c3fb52002",
+    "url": "/aesthete-shop/static/js/2.c07d6144.chunk.js"
   },
   {
     "revision": "6e375ba8dff6adfea481fa71a73929a3",
-    "url": "/aesthete-shop/static/js/2.c44f84b0.chunk.js.LICENSE.txt"
+    "url": "/aesthete-shop/static/js/2.c07d6144.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c7d66b205fa44a2d1bd",
-    "url": "/aesthete-shop/static/js/main.001f727c.chunk.js"
+    "revision": "840d9d168d18046079d5",
+    "url": "/aesthete-shop/static/js/main.4e05cff0.chunk.js"
   },
   {
     "revision": "b7d9b33ce3fc86c1e22d",
@@ -86,5 +86,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6e856d5be8d6bb092c273d42e2abcb01",
     "url": "/aesthete-shop/static/media/9.6e856d5b.jpg"
+  },
+  {
+    "revision": "50cd3b0015dd24c561bec05e7ea70f89",
+    "url": "/aesthete-shop/static/media/payment.50cd3b00.png"
   }
 ]);
